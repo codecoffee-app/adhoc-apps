@@ -1,0 +1,247 @@
+{
+  "github_url": "https://leetcode-ally.github.io/leetcode-ally-github",
+  "vercel_api": "https://c-leetcode-ally-be.vercel.app",
+  "code_editor_url": "https://react-xcode.vercel.app/leetcode/",
+  "lc_data": "https://api.zodeverse.com/",
+  "deep_link_url": "https://www.zodeverse.com/",
+  "comments_sheet": "https://script.google.com/macros/s/AKfycbyL4eSFioNaFd2Lb6DonkMUEc1AiB0jTJpXtkhtQ386bNj0GpL7fa7NYYM_T7UcyoQ42w/exec",
+  "plan_details": {
+    "monthly": {
+      "months": 1,
+      "title": "1 Month"
+    },
+    "three-months": {
+      "months": 3,
+      "title": "3 Months"
+    },
+    "six-months": {
+      "months": 6,
+      "title": "6 Months"
+    },
+    "yearly": {
+      "months": 12,
+      "title": "Yearly"
+    }
+  },
+  "recommended_plan": "six-months",
+  "latest_version": 4,
+  "iconName": "MainActivity",
+  "mandatory": true,
+  "showContest": false,
+  "showNewLogin": false,
+  "new_projects_url": "https://leetcode-ally.github.io/projects/newprojects.json",
+  "flag": 0,
+  "feedback": {
+    "msg": "",
+    "url": "",
+    "options": [],
+    "url_text": ""
+  },
+  "feedback_alert": {
+    "show": true,
+    "heading": "Give Feedback",
+    "subheading": "Share your thoughts about the app so we can improve and better meet your needs",
+    "btnText": "Tap to participate",
+    "img": "https://codecoffee-app.github.io/lc_main/feedback.png",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScmGw3T2ePAk85Iyfum97BomVjdm3dRKSdVmWjetdm6Dbq16A/viewform?usp=sharing&ouid=100142919527289744340"
+  },
+  "msg": "",
+  "download_url": "",
+  "options": [],
+  "app_url": "https://play.google.com/store/apps/details?id=com.reactally",
+  "release_features": [],
+  "gmail": "zodeverse.devt@gmail.com",
+  "notification": [
+    {
+      "time": "22:00:00",
+      "title": "👨‍💻 Hey Leetcoder!",
+      "body": "Did you solve today's problem?⌚"
+    },
+    {
+      "time": "23:00:00",
+      "title": "🔁 Keep It Fresh!",
+      "body": "Replenish your skills by revising the Revise Section. Consistent practice is the key to mastery! 💪"
+    }
+  ],
+  "adCountRange": {
+    "start": 2,
+    "end": 2
+  },
+  "adFrequency": 300,
+  "aiAdFrequency": 300,
+  "aiUrl": "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=",
+  "editorialAdFrequency": 300,
+  "noOfMinsForAdFree": 5,
+  "queueBasedBannerAd": true,
+  "queueAdFrequency": 30000,
+  "bannerAd": {
+    "navigator": true,
+    "subpage": true
+  },
+  "adInfo": {
+    "banner": {
+      "navigator": false,
+      "subpage": false,
+      "queueBasedBannerAd": true,
+      "queueAdFrequency": 30000,
+      "adUnit": "10_00000320000004000003600000230000031000000600000000000009000003300000350000026000002400000250000020000002200000270000015000000500000030000001000001200000180000011000003400000170000013000001400000100000007000000800000210000028000001600000370000019000000200000290000030_0006400126000730006500061000610010900117000630007000071000690006500065000620006400069001270011000108000680007500063000710006900063000690005500129001350006500074000640006800075000570007300061"
+    },
+    "interstitial": {
+      "adFrequency": 10,
+      "aiAdFrequency": 300,
+      "adUnit": "11_00000280000005000000300000150000000000001800000080000034000000900000230000013000003600000370000022000001600000200000011000002100000310000017000001200000350000029000002700000140000024000003300000040000007000003000000060000019000002600000020000001000003200000100000025_0006800128001110006900110000750013600065001180006400063000640006500061000640007500063000750007100069000680006600067000630006900068000670012700130000740006200075000700005800109000690006600064"
+    },
+    "rewarded": {
+      "show": true,
+      "addFreeMins": 5,
+      "adUnit": "2_00000260000027000002200000340000014000002300000320000035000002900000280000021000000500000000000002000003100000090000007000001800000110000008000003300000250000019000001200000130000017000000100000360000020000003700000160000030000002400000150000003000000600000040000010_0005700050000520005300057000550005900060000510005900057001150010100047000580010100115000590005500119000580005300059000580005300055001000005900057000600005000051000570005700100000470011400047"
+    },
+    "native": {
+      "show": true,
+      "adUnit": "10_00000010000019000000900000200000031000003000000030000022000000600000320000028000002900000100000004000002400000020000026000003500000170000016000002500000230000013000000000000050000012000002100000140000033000003400000270000018000000700000150000036000000800000110000037_0010800075001170006500067000670011000062000610006300074000690005500126000690005700071000690006900064000650006500063001090012700068000650006900063000640006400075001290006900068001350006300071"
+    }
+  },
+  "bannerAdUnit": "10_00000320000004000003600000230000031000000600000000000009000003300000350000026000002400000250000020000002200000270000015000000500000030000001000001200000180000011000003400000170000013000001400000100000007000000800000210000028000001600000370000019000000200000290000030_0006400126000730006500061000610010900117000630007000071000690006500065000620006400069001270011000108000680007500063000710006900063000690005500129001350006500074000640006800075000570007300061",
+  "callouts": {
+    "show": false,
+    "heading": "What's new?",
+    "list": [
+      "You can read editorials of all problems",
+      "Go through cards section to explore different varities of questions",
+      "Read interview experirences to gain insights"
+    ]
+  },
+  "downTimeAlert": {
+    "showDownTimeAlert": false,
+    "heading": "Notice",
+    "subheading": "App is down for maintenance. We apologize for any inconvenience. Your understanding is appreciated.",
+    "showMailBox": true,
+    "mailBox": {
+      "heading": "Please report to us",
+      "subject": "App is down for maintenance",
+      "body": "",
+      "email": "leetcode.ally@gmail.com",
+      "inputBoxPlaceholder": "Write your message here..",
+      "buttonText": "Send"
+    }
+  },
+  "apiFailAlert": {
+    "heading": "Notice",
+    "subheading": "There is some technical issue. We are looking into it. Apologies for the inconvenience. Please keep in touch.",
+    "showMailBox": true,
+    "mailBox": {
+      "heading": "Report to us",
+      "subject": "App is unable to fetch data",
+      "body": "",
+      "email": "leetcode.ally@gmail.com",
+      "inputBoxPlaceholder": "Write your message here..",
+      "buttonText": "Send"
+    },
+    "showLimitedFeaturesBtn": true,
+    "limitedFeaturesText": "Continue with Limited Features"
+  },
+  "questionNotFoundAlert": {
+    "heading": "Notice",
+    "subheading": "This question is not available as of now. Apologies for the inconvenience. Please keep in touch.",
+    "showMailBox": true,
+    "mailBox": {
+      "heading": "Report to us",
+      "subject": "Question not available",
+      "body": "",
+      "email": "leetcode.ally@gmail.com",
+      "inputBoxPlaceholder": "Write your message here..",
+      "buttonText": "Send"
+    },
+    "showLimitedFeaturesBtn": false,
+    "limitedFeaturesText": "Continue with Limited Features"
+  },
+  "contestNotFoundAlert": {
+    "heading": "Notice",
+    "subheading": "This contest's questions are not available as of now. Apologies for the inconvenience. Please keep in touch.",
+    "showMailBox": true,
+    "mailBox": {
+      "heading": "Report to us",
+      "subject": "Contest Questions not available",
+      "body": "",
+      "email": "leetcode.ally@gmail.com",
+      "inputBoxPlaceholder": "Write your message here..",
+      "buttonText": "Send"
+    },
+    "showLimitedFeaturesBtn": false,
+    "limitedFeaturesText": "Continue with Limited Features"
+  },
+  "carousel": {
+    "showCarousel": false,
+    "banners": []
+  },
+  "verticalCarousel": {
+    "showCarousel": true,
+    "banners": [
+      {
+        "id": 1,
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLScmGw3T2ePAk85Iyfum97BomVjdm3dRKSdVmWjetdm6Dbq16A/viewform?usp=header",
+        "url": "https://codecoffee-app.github.io/lc_main/unlimited-feedback-form.png"
+      }
+    ]
+  },
+  "aiCarousel": {
+    "showAiCarousel": false,
+    "AiBanners": [
+      {
+        "link": "https://picsum.photos/200/400",
+        "url": "https://leetcode-ally.github.io/main-without-sheet/ai.webp",
+        "id": 1,
+        "flag": 1
+      }
+    ]
+  },
+  "alertNotifications": {
+    "showAlert": false,
+    "alerts": [
+      {
+        "button": {
+          "text": "Check it out  ➜"
+        },
+        "canClose": true,
+        "display": true,
+        "message": "Video solution for POTD is available now",
+        "priority": 100,
+        "styles": {
+          "primaryColor": "#FFA133",
+          "secondaryColor": "#FFA13320",
+          "ternaryColor": "#FFA13360"
+        },
+        "type": "potd-video"
+      }
+    ]
+  },
+  "rateAlert": {
+    "heading": "Rate Us",
+    "subheading": "Your rating empowers us to create a better app tailored to your needs. Share your thoughts now and be a part of the journey!",
+    "showMailBox": false,
+    "mailBox": {}
+  },
+  "updateAlert": {
+    "heading": "Update",
+    "subheading": "We have a new update for you. Please update the app to get the latest features and bug fixes.",
+    "showMailBox": false,
+    "mailBox": {},
+    "showList": false,
+    "list": [],
+    "showUrl": true,
+    "urlData": {
+      "url": "https://play.google.com/store/apps/details?id=com.reactally",
+      "text": "Update now"
+    }
+  },
+  "verticals": {
+    "dsa": true,
+    "systemdesign": false,
+    "react": true,
+    "leetcode": true,
+    "goals": true,
+    "mongo": false,
+    "css": false,
+    "javascript": false
+  }
+}
